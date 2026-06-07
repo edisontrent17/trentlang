@@ -1,0 +1,4 @@
+target/
+examples/arithmetic
+examples/return_code
+examples/*.ll
